@@ -1,7 +1,7 @@
 name: Lore Vanelslande
 favicon: null
-layout_spectrum: 0.8187217814847827
-typography_spectrum: 0.3741768749896437
+layout_spectrum: 1
+typography_spectrum: 0.75002
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#fffcf5'
+    - '#d8dfe5'
+    - '#abaca4'
+    - '#8a8b83'
+    - '#747266'
   brandStrength: 0.5467961470130831
-  lightness: 0.47827124665491283
+  lightness: 1
   saturation: 0.328468645690009
   rhythmicContrast: 0.0956034092232585
 purpose: []
