@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Lore Vanelslande]]></title>
         <description><![CDATA[Lore Vanelslande]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lore-vanelslande/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 18:53:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 18:53:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lore-vanelslande/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/293cc771-c947-460a-8b81-c59128a20e13.jpg">]]></description>
+            <link>https://thegrid.ai/lore-vanelslande/7b2c5ee1-8686-4f2d-84db-c3fc043c3a0a/index.html</link>
+            <guid isPermaLink="false">7b2c5ee1-8686-4f2d-84db-c3fc043c3a0a</guid>
+            <pubDate>Sun, 24 Jan 2016 18:53:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>My guy just came home with this amazing treasure trove #myguy http://ift.tt/1RGPDhd</p>]]></description>
