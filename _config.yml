@@ -1,29 +1,18 @@
-name: Lore Vanelslande
-favicon: null
-layout_spectrum: 0.2528
-typography_spectrum: 0
-title: Lore Vanelslande
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#d9d9d9'
-    - '#bdbdbd'
-    - '#959595'
-    - '#656565'
-    - '#1a1a1a'
+    - '#D0C8A8'
+    - '#201000'
+    - '#908878'
+    - '#C8B080'
+    - '#E8E0C8'
   brandStrength: 0
-  lightness: 0
+  lightness: 1
+  rhythmicContrast: 1
   saturation: 1
-  rhythmicContrast: 0
+cta: {}
+layout_spectrum: 0.2528
+name: Lore Vanelslande
+opengraph: {}
 purpose: []
+typography_spectrum: 0
