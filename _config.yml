@@ -6,7 +6,7 @@ color:
     - '#908878'
     - '#C8B080'
     - '#E8E0C8'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 1
   rhythmicContrast: 1
   saturation: 1
